@@ -1,0 +1,8 @@
+[submodule "projects/starfield"]
+	path = projects/starfield
+	url = https://github.com/FaheemQuazi/concepts-starfield.git
+	branch = master
+[submodule "projects/gamepad"]
+	path = projects/gamepad
+	url = https://github.com/FaheemQuazi/concepts-gamepad.git
+	branch = master
